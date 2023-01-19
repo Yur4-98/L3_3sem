@@ -1,0 +1,8 @@
+﻿  L4_3sem.cpp
+E:\Инфа лабы 3 сем\L4_3sem\Graph.h(422,7): warning C4101: tmp: неиспользованная локальная переменная
+E:\Инфа лабы 3 сем\L4_3sem\Graph.h(413): message : во время компиляции функции-члена класс шаблон "ArraySequence<int> Graph<int,int>::dijkstra(int)"
+E:\Инфа лабы 3 сем\L4_3sem\Menu.h(180): message : выполняется компиляция ссылки на экземпляр шаблон функции "ArraySequence<int> Graph<int,int>::dijkstra(int)"
+E:\Инфа лабы 3 сем\L4_3sem\Graph.h(452): message : во время компиляции функции-члена класс шаблон "void Graph<int,int>::colorGraph(void)"
+E:\Инфа лабы 3 сем\L4_3sem\Menu.h(609): message : выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<int,int>::colorGraph(void)"
+E:\Инфа лабы 3 сем\L4_3sem\L4_3sem.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "void menu<int,int>(void)"
+  L4_3sem.vcxproj -> E:\Инфа лабы 3 сем\L4_3sem\Debug\L4_3sem.exe
